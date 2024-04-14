@@ -11,7 +11,8 @@
         padding: 0;
     }
     .menuList li {
-        margin: 0 10px;
+        /* margin: 0 10px; */
+        
     }
 }
 
@@ -21,8 +22,12 @@
         color: white;
     
     }
+    .about p {
+        font-size: 10px;
+    }
     .basicInfo p {
-        font-size: 1.2rem;
+        margin-right: 40px;
+        font-size: 1rem;
         color: white;
     }
     .btn button {
