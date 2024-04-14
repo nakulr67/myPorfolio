@@ -10,6 +10,10 @@
         width: auto;
         padding: 0;
     }
+
+    .img {
+        display: hidden;
+       }
     .menuList li {
         /* margin: 0 10px; */
         
@@ -42,6 +46,7 @@
     .skillCard {
         padding: 10px;
     }
+
     .img {
      display: hidden;
     }
