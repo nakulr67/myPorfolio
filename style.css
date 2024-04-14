@@ -86,7 +86,7 @@ header {
 }
 
 .basicInfo h2 {
-    margin-top: 200px;
+    /* margin-top: 1px; */
     font-size: 4.5rem;
     color: white;
 }
@@ -109,14 +109,15 @@ header {
 }
 
 .img {
-    margin-left: 1000px;
-    margin-top:-550px;
+    width: 400px;
+    margin-left: 900px;
+    margin-top:-300px;
 }
 
 /* About section styles */
 
 .aboutSection {
-    margin-top: -400px;
+    margin-top: -300px;
     background-color: black;
     color: white;
     text-align: center;
