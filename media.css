@@ -1,0 +1,46 @@
+@media only screen and (max-width: 768px) {
+    .navBar {
+        flex-direction: column;
+        align-items: center;
+    }
+    .nameDiv {
+        width: auto;
+    }
+    .menuList {
+        width: auto;
+        padding: 0;
+    }
+    .menuList li {
+        margin: 0 10px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .basicInfo h2 {
+        font-size: 2.5rem;
+        color: white;
+    
+    }
+    .basicInfo p {
+        font-size: 1.2rem;
+        color: white;
+    }
+    .btn button {
+        font-size: small;
+    }
+    
+    .hero{
+        flex-direction: column;
+    }
+
+    .skillCard {
+        padding: 10px;
+    }
+    .img {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     height: 1rem;
+    }
+
+}
