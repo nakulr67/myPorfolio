@@ -24,6 +24,7 @@
     }
     .about p {
         font-size: 10px;
+        padding: 10px;
     }
     .basicInfo p {
         margin-right: 40px;
@@ -42,10 +43,17 @@
         padding: 10px;
     }
     .img {
-     display: flex;
-     align-items: center;
-     justify-content: center;
-     height: 1rem;
+     display: hidden;
     }
+
+    .icons{
+        
+        gap: 8px;
+    }
+
+    .icons a{
+        font-size: 20px;
+    }
+
 
 }
