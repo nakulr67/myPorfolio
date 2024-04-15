@@ -26,6 +26,9 @@
         color: white;
     
     }
+    .img2 {
+        display: none;
+       }
     .about p {
         font-size: 10px;
         padding: 10px;
