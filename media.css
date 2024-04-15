@@ -11,8 +11,8 @@
         padding: 0;
     }
 
-    .img {
-        display: hidden;
+    .img2 {
+        display: none;
        }
     .menuList li {
         /* margin: 0 10px; */
